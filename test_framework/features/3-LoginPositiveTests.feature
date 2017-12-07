@@ -8,6 +8,4 @@ I want to have granted access with correct credentials.
         And I am on a blog article page
         When I click on "New article" link
         Then I see a button with "Create Article" text
-
-        
-
+   
