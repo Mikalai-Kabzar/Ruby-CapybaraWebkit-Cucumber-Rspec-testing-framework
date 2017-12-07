@@ -8,7 +8,6 @@ I want to get an error message in case of wrong article creation.
         And I am on a blog article page
         And I click on "New article" link
 
-
     Scenario Outline: Create article with too short title
         When I fill an article title with "<title>"
         And I fill an article text with "<text>"
@@ -28,3 +27,4 @@ I want to get an error message in case of wrong article creation.
         And I click on 'Create Article' button
         Then There is blank title error message
         And There is two mistakes error message
+        
