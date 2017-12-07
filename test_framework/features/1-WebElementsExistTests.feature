@@ -17,3 +17,4 @@ I want to see all web elements on a page
             | New article      |
             | Title            |
             | Text             |
+            
